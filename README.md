@@ -73,12 +73,12 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=guilhermegutierres&show_icons=true&count_private=true&hide_border=true&title_color=9A0000&icon_color=4F0000&text_color=FFF&bg_color=1C1C1C" alt="Guilherme Gutierres github stats" 
+    src="https://github-readme-stats.vercel.app/api?username=guilhermegutierres&show_icons=true&count_private=true&hide_border=false&title_color=9A0000&icon_color=4F0000&text_color=FFF&bg_color=1C1C1C" alt="Guilherme Gutierres github stats" 
     />   
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegutierres&layout=compact&hide_border=true&title_color=9A0000&text_color=FFF&bg_color=1C1C1C"  
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermegutierres&layout=compact&hide_border=false&title_color=9A0000&text_color=FFF&bg_color=1C1C1C"  
   />
 </p>
